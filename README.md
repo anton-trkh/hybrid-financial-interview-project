@@ -17,10 +17,18 @@ npm run dev
 npm run test
 
 # Libraries used
-vite
+vite (and vitest)
+
+react
+
 material UI
+
 react-redux
+
 react-router
+
 redux-sagas
+
 dayjs
+
 recharts
