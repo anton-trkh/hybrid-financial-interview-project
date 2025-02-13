@@ -4,6 +4,7 @@
 run the following commands: 
 
 npm i vite
+
 npm install
 
 ## Running the software
