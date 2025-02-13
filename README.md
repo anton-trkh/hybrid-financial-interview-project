@@ -14,3 +14,12 @@ npm run dev
 ## Other commands
 
 npm run test
+
+# Libraries used
+vite
+material UI
+react-redux
+react-router
+redux-sagas
+dayjs
+recharts
